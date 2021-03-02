@@ -1,2 +1,7 @@
 Git is distributed version control system.
+
 Git is free sortware distributed under th GPL.
+
+Git is good!
+
+Git tracks changes!
